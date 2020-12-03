@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\CSProject\Lab_1_OpenMP\Lab_1_OpenMP\main.cpp(33,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  LINK : 没有找到 D:\CSProject\Lab_1_OpenMP\Debug\Lab_1_OpenMP.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Lab_1_OpenMP.vcxproj -> D:\CSProject\Lab_1_OpenMP\Debug\Lab_1_OpenMP.exe
